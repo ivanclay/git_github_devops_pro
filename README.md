@@ -17,6 +17,12 @@
 ## CLI change work branch
 - git checkout `your_work_branch`
 
+## CLI Checking changed files
+- git status
+
+## CLI add to stage
+- git add `.`
+
 ## CLI Show commit History
 - git log
 
