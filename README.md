@@ -5,6 +5,9 @@
 - git config --global user.name `your name/user`
 - git config --global user.email `you email`
 
+## Checking Configuration
+- git config --list
+
 ## CLI Create new branch
 - git checkout -b `some_branch_name`
 
