@@ -1,6 +1,6 @@
 ﻿# Devops Pro [Git|Github]
 
-##Configuring
+## Configuring
 - git init
 - git config --global user.name `your name/user`
 - git config --global user.email `you email`
